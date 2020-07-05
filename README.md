@@ -13,3 +13,5 @@ $ cppcheck array_bounds.cpp
 Checking array_bounds.cpp ...
 [array_bounds.cpp:3]: (error) Array 'a[1]' accessed at index 3, which is out of bounds.
 ```
+
+Note: The name of the default branch (to serve github and gitlab users) is `default` :wink:
