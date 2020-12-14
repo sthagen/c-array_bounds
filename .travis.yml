@@ -1,8 +1,0 @@
-git:
-  depth: false
-language: cpp
-addons:
-  apt:
-    update: true
-install: true
-script: make test
